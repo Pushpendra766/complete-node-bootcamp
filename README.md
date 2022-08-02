@@ -1,4 +1,4 @@
-#Timeline
+# Timeline
 To access the data before using mongoose (using local data) - check commit on 1 August 2022
 
 # Course Material and FAQ for my Complete Node.js, Express and MongoDB Bootcamp
