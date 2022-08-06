@@ -1,3 +1,6 @@
+# Timeline
+To access the data before using mongoose (using local data) - check commit on 1 August 2022
+
 # Course Material and FAQ for my Complete Node.js, Express and MongoDB Bootcamp
 
 This repo contains starter files and the finished project files for all the projects contained in the course (complete repo size is **288MB**).
